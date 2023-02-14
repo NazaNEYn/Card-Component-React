@@ -8,11 +8,7 @@ Card component is some kind of container look with rounded corners and drop shad
 
 You could either :
 
-1. Clone the repository : `git clone [repo url]`
-   <br>
-
-Example:
-
+1. Clone the repository : 
 ```
 git clone https://github.com/NazaNEYn/Card-Component-React.git
 ```
