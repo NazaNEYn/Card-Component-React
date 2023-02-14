@@ -12,3 +12,6 @@ You could either :
 ```
 git clone https://github.com/NazaNEYn/Card-Component-React.git
 ```
+
+
+![image](https://user-images.githubusercontent.com/68081983/218798051-76ead3cd-f307-4969-91b4-a6ca7da7a7b1.png)
